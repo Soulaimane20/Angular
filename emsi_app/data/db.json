@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTWFyb3VhbmUiLCJsYXN0TmFtZSI6IkJPVUNIVEFPVUkiLCJlbWFpbCI6Im91c3NhdEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.khQi5bR-ORcbm_qJ3WoowxakHP455k4V8cg-RLnPRxE"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiT3Vzc2FtYSIsImxhc3ROYW1lIjoiVEFIUkkiLCJlbWFpbCI6Im91c3NhdEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.PN14-M-4cDrCeR3RjN45v0-wsVJQIsSQiV9jSUX-ms4"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTW9oYW1lZCIsImxhc3ROYW1lIjoiQUJSQUsiLCJlbWFpbCI6Im91c3NhdEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.2xM5CsFQHAbWXSBQSjJk6064PNSQwOkN7vLjOWF0P7k"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pc portable",
+      "price": "5700",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Iphone 15",
+      "price": "15000",
+      "checked": false
+    },
+    {
+      "name": "PS4",
+      "price": "1500",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "VR",
+      "price": "2000",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "PC Hp",
+      "price": "5550",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "samsung",
+      "price": "800",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "AirPods",
+      "price": "1500",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "disque dur",
+      "price": "4000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "clavier",
+      "price": "500",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "souris",
+      "price": "300",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Sidi ALI",
+      "price": "6",
+      "checked": false,
+      "id": 13
+    }
+  ]
+}
